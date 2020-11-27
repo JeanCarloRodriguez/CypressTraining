@@ -1,0 +1,6 @@
+{
+    "error": {
+        "invalid_error_message": "Invalid email or password.",
+        "required_photo_error_message": "Required request part 'photo' is not present"
+    }
+}
